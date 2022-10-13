@@ -1,0 +1,2 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file vnc/utils/websockify/tests/latency.py","time":"2022-10-13T05:32:48Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file vnc/utils/websockify/websockify.py","time":"2022-10-13T05:32:48Z"}
